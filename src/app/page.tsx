@@ -11,7 +11,7 @@ export default function HomePage() {
           A collaborative escape-room adventure built with Next.js, React Three Fiber,
           and Three.js.
         </p>
-        <Link href="/room-101">Enter the Room 101 reference scene →</Link>
+        <Link href="/room-101">Explore Door 101 · The Final Chapter →</Link>
       </section>
 
       <section>
